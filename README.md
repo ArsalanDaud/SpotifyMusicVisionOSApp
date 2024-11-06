@@ -1,0 +1,12 @@
+VisionOS Spotify App For iOS User
+  - Allow User to search Track from Spotify
+  - Securly integrate Spotify API and Used in App
+  - User Can Search Track
+     - Track
+     - Artist
+     - Album
+  - Showed Searched Possible Rsult in List
+  - User Can Select any wished Track
+  - After selection can Play the Track into New Screen
+  - User can pause play Track
+  - User can forward 15sec or backward 15sec track directly
