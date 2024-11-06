@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct SpotifyVisionOSAppApp: App {
+struct SpotifyVisionOSApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SpotifyMusicVisionView()
         }
     }
 }
